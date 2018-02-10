@@ -1,0 +1,6 @@
+# build
+build
+
+# ide 
+.vs
+.vscode

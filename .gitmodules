@@ -1,0 +1,3 @@
+[submodule "lib/win-process-injector"]
+	path = lib/win-process-injector
+	url = https://github.com/jsmonkey/win-process-injector
